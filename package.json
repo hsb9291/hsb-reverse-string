@@ -19,5 +19,6 @@
     "url": "https://github.com/hsb9291/hsb-reverse-string/issues"
   },
   "homepage": "https://github.com/hsb9291/hsb-reverse-string#readme",
-  "devDependencies": {}
+  "devDependencies": {},
+  "dependencies": {}
 }
